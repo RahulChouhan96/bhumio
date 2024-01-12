@@ -1,0 +1,14 @@
+{
+  "name": "bhumio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul Chouhan",
+  "license": "ISC",
+  "dependencies": {
+    "tesseract.js": "^5.0.4"
+  }
+}
